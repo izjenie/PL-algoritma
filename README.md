@@ -17,7 +17,7 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Positif covid 
 - Kontak erat
 
-<hl>
+---
 
 Beberapa catatan:
 <ol type="a">
