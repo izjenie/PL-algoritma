@@ -17,26 +17,23 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Positif covid 
 - Kontak erat
 
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-
+<hl>
 
 Beberapa catatan:
 <ol type="a">
 <li>seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server</li>
 <li>Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan</li>
-c.	Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning
-d.	Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. 
-e.	Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept
-f.	Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif
-g.	Jika lab salah input dan mengupdate hasil positif menjadi negatif maka data update tetap bisa dikirim dari NAR ke PL selama diupdate sebelum sebelum batas rilis (jam 12 siang)
-h.	Jika update lab dilakukan setelah batas jam rilis maka dianggap di update 1 hari setelahnya  
-i.	10 hari sejak positive pertama masih dianggap positive. Walaupun ada hasil negative. 
-j.	Hasil negatif sebelum 10 hari dari tanggal pengambilan sampel positif tidak akan dikirimkan dari NAR ke PL
-k.	hari ke 11 s.d 14 dari positif pertama jika ada inputan test baru dgn hasil negative maka diambil negative dan data ini akan dikirimkan dari NAR ke PL
-l.	Bila hari 11 s.d 14 hasil test masih positif maka masih dianggap positive
-m.	Bila hari ke 11 s.d 14 tidak tes maka masih dianggap positif 
-n.	14 hari setelah positif pertama akan dianggap otomatis negative di hari ke-15 dan di PL akan kembali ke kondisi awal
-o.	Sampai 30 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 30 hari akan kembali ke posisi awal (misalnya belum vaksin)
+<li>Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning</li>
+<li>Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. </li>
+<li>Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
+<li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
+<li>Jika lab salah input dan mengupdate hasil positif menjadi negatif maka data update tetap bisa dikirim dari NAR ke PL selama diupdate sebelum sebelum batas rilis (jam 12 siang)</li>
+<li>Jika update lab dilakukan setelah batas jam rilis maka dianggap di update 1 hari setelahnya </li>
+<li>10 hari sejak positive pertama masih dianggap positive. Walaupun ada hasil negative.</li>
+<li>Hasil negatif sebelum 10 hari dari tanggal pengambilan sampel positif tidak akan dikirimkan dari NAR ke PL</li>
+<li>hari ke 11 s.d 14 dari positif pertama jika ada inputan test baru dgn hasil negative maka diambil negative dan data ini akan dikirimkan dari NAR ke PL</li>
+<li>Bila hari 11 s.d 14 hasil test masih positif maka masih dianggap positive</li>
+<li>Bila hari ke 11 s.d 14 tidak tes maka masih dianggap positif</li>
+<li>14 hari setelah positif pertama akan dianggap otomatis negative di hari ke-15 dan di PL akan kembali ke kondisi awal</li>
+<li>Sampai 30 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 30 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
 </ol>
