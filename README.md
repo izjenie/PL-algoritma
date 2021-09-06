@@ -9,7 +9,7 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Fully Vaccinated (2x vaksin, dan tidak ada data bahwa dia positif atau kontak erat) 
 - 2x24 PCR result negatif OR 1x24 Antigen result negatif
 2. 🟡 Kuning:
-- Baru vaksin 1x (Kuning polos) tidak ada data bahwa dia positif atau kontak erat
+- Baru vaksin 1x dan tidak ada data bahwa dia positif atau kontak erat
 - Penyintas < 3 bulan tidak ada data bahwa dia positif atau kontak erat
 3. 🔴 Merah
 - Belum vaksin tidak ada data bahwa dia positif atau kontak erat
