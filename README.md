@@ -9,13 +9,13 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Fully Vaccinated (2x vaksin, dan tidak ada data bahwa dia positif atau kontak erat) 
 - 2x24 PCR result negatif OR 1x24 Antigen result negatif
 2. 🟡 Kuning:
-a.	Baru vaksin 1x (Kuning polos) tidak ada data bahwa dia positif atau kontak erat
-b.	Penyintas < 3 bulan tidak ada data bahwa dia positif atau kontak erat
+- Baru vaksin 1x (Kuning polos) tidak ada data bahwa dia positif atau kontak erat
+- Penyintas < 3 bulan tidak ada data bahwa dia positif atau kontak erat
 3. 🔴 Merah
-a. Belum vaksin tidak ada data bahwa dia positif atau kontak erat
+- Belum vaksin tidak ada data bahwa dia positif atau kontak erat
 4. ⚫️ Hitam
-a. Positif covid 
-b. Kontak erat
+- Positif covid 
+- Kontak erat
 
 Beberapa catatan:
 1. Kalau terakhir kali positif > 14 hari -> otomatis negatif
