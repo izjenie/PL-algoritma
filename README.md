@@ -17,6 +17,12 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Positif covid 
 - Kontak erat
 
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 Beberapa catatan:
 A. Kalau terakhir kali positif > 14 hari -> otomatis negatif
 B. Hasil Negatif dan positif di hari yang sama selalu di ambil yg positif  
