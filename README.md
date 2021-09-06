@@ -18,8 +18,8 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Kontak erat
 
 Beberapa catatan:
-1. Kalau terakhir kali positif > 14 hari -> otomatis negatif
-2. Hasil Negatif dan positif di hari yang sama selalu di ambil yg positif  
+A. Kalau terakhir kali positif > 14 hari -> otomatis negatif
+B. Hasil Negatif dan positif di hari yang sama selalu di ambil yg positif  
 Catatan tambahan:
 - a.	seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server
 - b.	Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan
