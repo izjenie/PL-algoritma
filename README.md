@@ -17,18 +17,15 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 - Positif covid 
 - Kontak erat
 
-<ol type="a">
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
-</ol>
+
 
 Beberapa catatan:
-A. Kalau terakhir kali positif > 14 hari -> otomatis negatif
-B. Hasil Negatif dan positif di hari yang sama selalu di ambil yg positif  
-Catatan tambahan:
-- a.	seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server
-- b.	Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan
+<ol type="a">
+<li>seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server</li>
+<li>Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan</li>
 c.	Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning
 d.	Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. 
 e.	Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept
@@ -42,3 +39,4 @@ l.	Bila hari 11 s.d 14 hasil test masih positif maka masih dianggap positive
 m.	Bila hari ke 11 s.d 14 tidak tes maka masih dianggap positif 
 n.	14 hari setelah positif pertama akan dianggap otomatis negative di hari ke-15 dan di PL akan kembali ke kondisi awal
 o.	Sampai 30 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 30 hari akan kembali ke posisi awal (misalnya belum vaksin)
+</ol>
