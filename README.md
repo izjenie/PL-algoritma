@@ -1,4 +1,4 @@
-# Algoritma Warna PL
+# Algoritma Warna Pedulilindungi
 v. 2.1\
 7 September 2021\
 \
