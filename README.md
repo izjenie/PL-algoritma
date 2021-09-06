@@ -2,7 +2,6 @@
 ```
 v. 2.1
 7 September 2021
-```
 Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Pedulilindungi. Hasil diskusi tambahan dengan Litbang dan P2P.
 
 
@@ -17,6 +16,7 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 4. ⚫️ Hitam
 - Positif covid 
 - Kontak erat
+```
 
 ---
 
