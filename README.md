@@ -38,6 +38,7 @@ Beberapa catatan:
 <li>Jika data ditemukan di SIRS Online dan masih dirawat karena covid/suspect maka status selalu positif</li>
 <li>Sampai dengan 30 hari setelah positif pertama, maka hasil positif tidak akan pernah dianggap sebagai re-infeksi</li>
 <li>Sampai 90 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 90 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
+<li>Untuk semua data positif yg ada di PJTLI yg sudah diapprove, maka statusnya adalah positif (hitam)</li>
 <li>Data yang terkonfirmasi covid, tapi tidak ada hasil test lab (dimasukkan oleh Dinkes dan PHEOC) termasuk yang akan dianggap positive</li>
 <li>Data NIK dari Silacak (program tracing) akan dikategorikan sebagai kontak erat</li>
   <li>Setelah 5 hari (di hari ke 6) kontak erat akan kembali ke posisi awal</li>  
