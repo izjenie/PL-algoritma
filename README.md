@@ -35,7 +35,7 @@ Beberapa catatan:
 <li>Bila hari 11 s.d 14 hasil test masih positif maka masih dianggap positive</li>
 <li>Bila hari ke 11 s.d 14 tidak tes maka masih dianggap positif</li>
 <li>14 hari setelah positif pertama akan dianggap otomatis negative di hari ke-15 dan di PL akan kembali ke kondisi awal</li>
-<li>Sampai 30 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 30 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
+<li>Sampai 90 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 90 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
 <li>Data yang terkonfirmasi covid, tapi tidak ada hasil test lab (dimasukkan oleh Dinkes dan PHEOC) termasuk yang akan dianggap positive</li>
 <li>Data NIK dari SIRS Online (Rumah sakit) yang terpapar termasuk dihitung positive</li>
 <li>Data NIK dari Silacak (program tracing) akan dikategorikan sebagai kontak erat</li>
