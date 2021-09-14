@@ -20,12 +20,12 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 ---
 
 Beberapa catatan:
+- seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server</li>
+- Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan</li>
+- Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning</li>
+- Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. </li>
+- Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
 <ol type="a">
-<li>seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server</li>
-<li>Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter specialist dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan</li>
-<li>Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning</li>
-<li>Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. </li>
-<li>Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
 <li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
 
 <li>Jika update lab dilakukan setelah batas jam rilis maka dianggap di update 1 hari setelahnya </li>
