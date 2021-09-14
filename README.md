@@ -38,7 +38,6 @@ Beberapa catatan:
 <li>14 hari setelah positif pertama, jika data ditemukan di SIRS Online dan masih dirawat maka status tetap positif</li>
 <li>Sampai 90 hari setelah negatif, setelah terkena positive, maka akan dianggap minimal sudah 1x suntik – setelah 90 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
 <li>Data yang terkonfirmasi covid, tapi tidak ada hasil test lab (dimasukkan oleh Dinkes dan PHEOC) termasuk yang akan dianggap positive</li>
-<li>Data NIK dari SIRS Online (Rumah sakit) yang terpapar termasuk dihitung positive</li>
 <li>Data NIK dari Silacak (program tracing) akan dikategorikan sebagai kontak erat</li>
   <li>Setelah 5 hari (di hari ke 6) kontak erat akan kembali ke posisi awal</li>  
 </ol>
