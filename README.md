@@ -27,7 +27,7 @@ Beberapa catatan:
 <li>Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. </li>
 <li>Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
 <li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
-<li>Jika lab salah input dan mengupdate hasil positif menjadi negatif maka data update tetap bisa dikirim dari NAR ke PL selama diupdate sebelum sebelum batas rilis (jam 12 siang)</li>
+<li>--Jika lab salah input dan mengupdate hasil positif menjadi negatif maka data update tetap bisa dikirim dari NAR ke PL selama diupdate sebelum sebelum batas rilis (jam 12 siang)--</li>
 <li>Jika update lab dilakukan setelah batas jam rilis maka dianggap di update 1 hari setelahnya </li>
 <li>10 hari sejak positive pertama masih dianggap positive. Walaupun ada hasil negative.</li>
 <li>Hasil negatif sebelum 10 hari dari tanggal pengambilan sampel positif tidak akan dikirimkan dari NAR ke PL</li>
