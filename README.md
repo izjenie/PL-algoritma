@@ -41,5 +41,6 @@ Beberapa catatan:
 <li>Untuk semua data positif yg ada di PJTLI yg sudah diapprove, maka statusnya adalah positif (hitam)</li>
 <li>Data yang terkonfirmasi covid, tapi tidak ada hasil test lab (dimasukkan oleh Dinkes dan PHEOC) termasuk yang akan dianggap positive</li>
 <li>Data NIK dari Silacak (program tracing) akan dikategorikan sebagai kontak erat</li>
-  <li>Setelah 5 hari (di hari ke 6) kontak erat akan kembali ke posisi awal</li>  
+  <li>Jika kontak erat melakukan entri test antigen pada hari ke-1 dan exit test PCR pada hari ke-5 dengan hasil negatif, maka status akan kembali seperti semula pada hari ke-6. Dengan catatan kedua hasil entri dan exit test harus dimasukkan ke NAR dan berjarak minimal 5 hari.</li>  
+  <li>Jika kontak erat tidak melakukan entri test, maka status akan kembali seperti semula pada hari ke-15</li>
 </ol>
