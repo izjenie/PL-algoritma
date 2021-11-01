@@ -1,6 +1,7 @@
 # Algoritma Warna Pedulilindungi
 v. 2.1\
 14 September 2021\
+Update: 1 November 2021 by @auliazahrina\
 \
 Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Pedulilindungi. Hasil diskusi tambahan dengan Litbang dan P2P.
 
