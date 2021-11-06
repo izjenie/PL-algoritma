@@ -8,7 +8,7 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 
 1. 🟢 Hijau: 
 - Fully Vaccinated (2x vaksin, dan tidak ada data bahwa dia positif atau kontak erat) 
-- 2x24 PCR result negatif OR 1x24 Antigen result negatif
+- 3x24 PCR result negatif OR 1x24 Antigen result negatif
 2. 🟡 Kuning:
 - Baru vaksin 1x dan tidak ada data bahwa dia positif atau kontak erat
 - Penyintas < 3 bulan tidak ada data bahwa dia positif atau kontak erat
