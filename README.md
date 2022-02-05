@@ -34,7 +34,7 @@ Beberapa catatan:
 <li>Hari ke 6 s.d 10 dari positif pertama jika ada hasil tes PCR negatif sebanyak 2x yang berjarak 24 jam, maka status akan kembali seperti semula.</li>
 <li>Bila hari 6 s.d 10 hasil test masih positif maka masih dianggap positif</li>
 <li>Bila hari ke 6 s.d 10 tidak tes maka masih dianggap positif</li>
-<li>Jika kasus konfirmasi tidak melakukan tes, maka status akan kenbali seperti semula pada hari ke-11.<li>
+<li>Jika kasus konfirmasi tidak melakukan tes, maka status akan kembali seperti semula pada hari ke-11.</li>
 <li>Sampai dengan 30 hari setelah positif pertama, maka hasil positif tidak akan pernah dianggap sebagai re-infeksi</li>
 <li>Sampai 90 hari setelah negatif, maka akan dianggap sebagai status 1x suntik – setelah 90 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
 <li>Untuk semua data positif yg ada di PJTLI yg sudah diapprove, maka statusnya adalah positif (hitam)</li>
