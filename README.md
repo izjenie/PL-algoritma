@@ -1,5 +1,5 @@
 # Algoritma Warna Pedulilindungi
-v. 2.2\
+v. 2.3\
 14 September 2021\
 Update: 11 Februari 2022 by @auliazahrina\
 \
@@ -24,9 +24,9 @@ Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Ped
 Beberapa catatan:
 - seluruh data individual checkin dan checkout di pergunakan untuk kebutuhan tracing selama 3 minggu ke depan. Setalah 3 minggu, semua data individual checkin dan checkout di delete permanen dari server</li>
 - Untuk komorbid permanen yg tidak bisa di vaksin membutuhkan surat keterangan dokter spesialis dan test PCR / antigen diputuskan berdasarkan kebijakan perusahaan untuk karyawan</li>
-- Pengunjung mall, retail resto / public area , tamu pabrik hanya boleh hijau dan kuning</li>
-- Karyawan yg masuk ketempat kerja warna hijau kuning dan merah diperbolehkan masuk. </li>
-- Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
+- Pengunjung mall, retail resto / public area, tamu pabrik hanya boleh hijau dan kuning</li>
+- Karyawan yang boleh masuk ke tempat kerja hanya warna hijau dan kuning.</li>
+- Karyawan dengan warna merah dan hitam tidak boleh masuk ke tempat kerja.</li>
 <ol type="a">
 <li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
 <li>Hari ke-1 sampai hari ke-5 masih dianggap positif. Walaupun ada hasil negatif.</li>
