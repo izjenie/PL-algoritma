@@ -29,8 +29,8 @@ Beberapa catatan:
 - Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
 <ol type="a">
 <li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
-<li>Hari ke-1 sampai hari ke-5 sejak positif masih dianggap positif. Walaupun ada hasil negatif.</li>
-<li>Jika ada hasil negatif pada hari ke-1 sampai hari ke-5 sejak positif, maka hasil negatif tidak akan dikirimkan dari NAR ke PL.</li>
+<li>Hari ke-1 sampai hari ke-5 masih dianggap positif. Walaupun ada hasil negatif.</li>
+<li>Jika ada hasil negatif pada hari ke-1 sampai hari ke-5, maka hasil negatif tidak akan dikirimkan dari NAR ke PL.</li>
 <li>Hari ke-6 s.d 10 dari positif pertama jika ada hasil tes PCR negatif sebanyak 2x yang berjarak 24 jam, maka status akan kembali seperti semula.</li>
 <li>Bila hari ke-6 s.d 10 hasil tes masih positif maka masih dianggap positif</li>
 <li>Bila hari ke-6 s.d 10 tidak tes maka masih dianggap positif</li>
