@@ -1,7 +1,7 @@
 # Algoritma Warna Pedulilindungi
-v. 2.1\
+v. 2.2\
 14 September 2021\
-Update: 5 Februari 2022 by @auliazahrina\
+Update: 11 Februari 2022 by @auliazahrina\
 \
 Berikut ini algoritma yg akan kita implementasi sebagai pembetulan algoritma Pedulilindungi. Hasil diskusi tambahan dengan Litbang dan P2P.
 
@@ -29,11 +29,11 @@ Beberapa catatan:
 - Warna merah masuk ke tempat kerja masih boleh dengan batas waktu 30 sept</li>
 <ol type="a">
 <li>Jika dalam satu hari ada hasil positif dan negatif dari dua lab yang berbeda maka yang NAR kirim ke PL adalah yang positif</li>
-<li>5 hari sejak positif pertama masih dianggap positif. Walaupun ada hasil negatif.</li>
-<li>Hasil negatif sebelum 5 hari dari tanggal pengambilan sampel positif tidak akan dikirimkan dari NAR ke PL.</li>
-<li>Hari ke 6 s.d 10 dari positif pertama jika ada hasil tes PCR negatif sebanyak 2x yang berjarak 24 jam, maka status akan kembali seperti semula.</li>
-<li>Bila hari 6 s.d 10 hasil test masih positif maka masih dianggap positif</li>
-<li>Bila hari ke 6 s.d 10 tidak tes maka masih dianggap positif</li>
+<li>Hari ke-1 sampai hari ke-5 masih dianggap positif. Walaupun ada hasil negatif.</li>
+<li>Jika ada hasil negatif pada hari ke-1 sampai hari ke-5, maka hasil negatif tidak akan dikirimkan dari NAR ke PL.</li>
+<li>Hari ke-6 s.d 10 dari positif pertama jika ada hasil tes PCR negatif sebanyak 2x yang berjarak 24 jam, maka status akan kembali seperti semula.</li>
+<li>Bila hari ke-6 s.d 10 hasil tes masih positif maka masih dianggap positif</li>
+<li>Bila hari ke-6 s.d 10 tidak tes maka masih dianggap positif</li>
 <li>Jika kasus konfirmasi tidak melakukan tes, maka status akan kembali seperti semula pada hari ke-11.</li>
 <li>Sampai dengan 30 hari setelah positif pertama, maka hasil positif tidak akan pernah dianggap sebagai re-infeksi</li>
 <li>Sampai 90 hari setelah negatif, maka akan dianggap sebagai status 1x suntik – setelah 90 hari akan kembali ke posisi awal (misalnya belum vaksin)</li>
